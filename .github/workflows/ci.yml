@@ -37,4 +37,4 @@ jobs:
 
       # Runs pytest script
       - name: Runs the test script
-        run: python test_app.py
+        run: pytest
